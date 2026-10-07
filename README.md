@@ -2,6 +2,10 @@
 
 A modern and responsive restaurant website designed to showcase the restaurant's identity, menu, services, and overall dining experience.
 
+## Website
+
+[View Website](https://dilandevlabs.github.io/restaurant-website/)
+
 ## Preview
 
 <img src="assets/preview.png" width="900">
