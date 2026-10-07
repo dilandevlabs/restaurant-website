@@ -2,6 +2,10 @@
 
 A modern and responsive restaurant website designed to showcase the restaurant's identity, menu, services, and overall dining experience.
 
+## Preview
+
+<img src="assets/preview.png" width="900">
+
 ## Overview
 
 This project focuses on creating a clean and welcoming digital presence for a modern restaurant. The design combines warm neutral tones with deep green and gold accents to create an elegant but approachable visual identity.
