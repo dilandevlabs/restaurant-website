@@ -1,4 +1,4 @@
-# Restaurant Landing Page
+# Restaurant Website
 
 A modern and responsive restaurant website designed to showcase the restaurant's identity, menu, services, and overall dining experience.
 
